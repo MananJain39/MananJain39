@@ -1,11 +1,11 @@
-# Manan-Jain-Github
+# Hey there, currently a beginner but soon will be a GAWD!!
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MananJain39&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MananJain39&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="75" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=MananJain39&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MananJain39&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MananJain39&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="100" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=MananJain39&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
