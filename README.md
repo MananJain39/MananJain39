@@ -2,6 +2,12 @@
 
 <br clear="both">
 
+###
+
+<h1 align="left">My Stats:</h1>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MananJain39&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MananJain39&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="100" alt="languages graph" /> <br>
@@ -10,7 +16,7 @@
 
 ###
 
-<h1 align="left">Tech</h1>
+<h1 align="left">Languages and Tools:</h1>
 
 ###
 
