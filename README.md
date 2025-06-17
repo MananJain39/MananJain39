@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Github Stats:</h1>
+<h1 align="left">My Boring Stats:</h1>
 
 ###
 
