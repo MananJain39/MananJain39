@@ -13,8 +13,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MananJain39&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="100" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=MananJain39&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MananJain39&hide_border=true&theme=chartreuse-dark&layout=compact" />
+###
 
+ <!--START_SECTION:waka-->
+
+```txt
+From: 09 June 2025 - To: 16 June 2025
+
+Total Time: 9 hrs 6 mins
+
+C++      6 hrs 6 mins    ████████████████▓░░░░░░░░   67.09 %
+Python   2 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   32.91 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
+<!--END_SECTION:waka-->
 
 ###
 
@@ -38,20 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
 </div>
 
-###
 
- <!--START_SECTION:waka-->
-
-```txt
-From: 09 June 2025 - To: 16 June 2025
-
-Total Time: 9 hrs 6 mins
-
-C++      6 hrs 6 mins    ████████████████▓░░░░░░░░   67.09 %
-Python   2 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   32.91 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
 
 ###
