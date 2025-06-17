@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">My Stats:</h1>
+<h1 align="left">Github Stats:</h1>
 
 ###
 
@@ -13,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MananJain39&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="100" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=MananJain39&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MananJain39&hide_border=true&theme=transparent&layout=compact" />
+
 
 ###
 
