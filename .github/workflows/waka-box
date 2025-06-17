@@ -1,0 +1,17 @@
+name: Update wakatime stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: WakaBox
+    runs-on: ubuntu-latest
+    steps:
+      - name: WakaTime Metrics Box
+        uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
