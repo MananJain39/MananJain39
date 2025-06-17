@@ -14,19 +14,7 @@
   <img src="https://streak-stats.demolab.com?user=MananJain39&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
- <!--START_SECTION:waka-->
-
-```txt
-From: 09 June 2025 - To: 16 June 2025
-
-Total Time: 9 hrs 6 mins
-
-C++      6 hrs 6 mins    ████████████████▓░░░░░░░░   67.09 %
-Python   2 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   32.91 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
+![WakaTime Stats](https://raw.githubusercontent.com/MananJain39/MananJain39/master/images/wakatime.svg)
 
 ###
 
