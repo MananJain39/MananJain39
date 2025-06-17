@@ -14,7 +14,7 @@
   <img src="https://streak-stats.demolab.com?user=MananJain39&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-![WakaTime Stats](https://raw.githubusercontent.com/MananJain39/MananJain39/master/images/wakatime.svg)
+<figure><embed src="https://wakatime.com/share/@MananJain39/04c29e71-2f5c-4a73-ac54-3e51edc3f82e.svg"></embed></figure>
 
 ###
 
