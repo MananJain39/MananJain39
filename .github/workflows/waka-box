@@ -1,16 +1,15 @@
-name: Update wakatime stats
+name: Update WakaTime Box
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'  # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
-  build:
-    name: WakaBox
+  update-box:
     runs-on: ubuntu-latest
     steps:
-      - name: WakaTime Metrics Box
+      - name: WakaBox
         uses: matchai/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
