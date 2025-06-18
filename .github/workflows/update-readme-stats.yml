@@ -1,0 +1,25 @@
+name: Update GitHub Stats in README
+
+on:
+  schedule:
+    - cron: "30 18 * * *"  # ⏰ every day at 00:00 IST (18:30 UTC)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Stats Image
+        run: |
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=MananJain39&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800&custom_title=GitHub%20Stats" -H "Authorization: token ${{ secrets.GH_STATS_TOKEN }}"
+
+      - name: Commit & Push Stats Image
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add stats.svg
+          git commit -m "🔄 Updated GitHub stats [automated]" || echo "No changes"
+          git push
