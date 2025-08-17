@@ -1,4 +1,4 @@
-# Hey there, currently a beginner but soon will be a **GAWD**!!
+# Hey there, currently a beginner but soon will be a **GAWD**!!!
 
 ## My Boring Stats:
 
