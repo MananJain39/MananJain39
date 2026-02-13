@@ -1,11 +1,18 @@
-# Hey there, currently a beginner but soon will be a **GAWD**!!!
+# Manan Jain
 
-## My Boring Stats:
+Undergraduate developer focused on machine learning systems, algorithms, and backend engineering.  
+Interested in building reproducible ML infrastructure, data-driven applications, and open-source software.
 
-<img src="https://github-readme-stats.vercel.app/api?username=MananJain39&hide_border=true&theme=chartreuse-dark&card_width=495&hide_title=true&show_icons=true&show=prs_merged,reviews" />
+---
+
+## GitHub Statistics
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=MananJain39&hide_border=true&theme=chartreuse-dark&card_width=495&hide_title=true&show_icons=true&show=prs_merged,reviews" /> -->
 <img src="https://nirzak-streak-stats.vercel.app?user=MananJain39&hide_border=true&theme=chartreuse-dark&card_width=495&mode=weekly" />
 
-## Languages and Tools:
+---
+
+## Languages and Technologies
 
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
@@ -15,3 +22,5 @@
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+
+---
