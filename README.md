@@ -8,7 +8,7 @@ Interested in building reproducible ML infrastructure, data-driven applications,
 ## GitHub Statistics
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=MananJain39&hide_border=true&theme=chartreuse-dark&card_width=495&hide_title=true&show_icons=true&show=prs_merged,reviews" /> -->
-<img src="https://nirzak-streak-stats.vercel.app?user=MananJain39&hide_border=true&theme=chartreuse-dark&card_width=495&mode=weekly" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MananJain39&theme=tokyonight&hide_border=true)
 
 ---
 
